@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMusicPlayer</string>
+    <string name="titel">Sounds that will help you fall a sleep</string>
+    <string name="nature">Nature sounds</string>
+    <string name="for_kids">For Kids</string>
+    <string name="white_noise">White Noise</string>
+    <string name="meditaion">Meditaion</string>
+</resources>
